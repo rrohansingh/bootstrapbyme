@@ -1,0 +1,21 @@
+
+.container-fluid {
+    background-color:lightgreen;
+    height : 40rem;
+
+}
+.row{
+    background-color: orange;
+    height: 4rem;
+}
+[class*="col-"]{
+    background-color: pink;
+    height: 2rem;
+    border-style: solid;
+    border-color: black;
+    
+}
+/* .col-8{
+    background-color:steelblue;
+    height: 2rem;
+} */
