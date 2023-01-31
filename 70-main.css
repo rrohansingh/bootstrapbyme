@@ -1,7 +1,7 @@
 
 .container-fluid {
     background-color:lightgreen;
-    height : 40rem;
+    height : 16rem;
 
 }
 .row{
@@ -15,7 +15,7 @@
     border-color: black;
     
 }
-/* .col-8{
+.col-8{
     background-color:steelblue;
     height: 2rem;
-} */
+}
